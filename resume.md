@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anil Wadghule CV
+title: Wenqiong Tu- resume
 ---
 
-[ASCII Resume](/resume.txt)
+[PDF CV](/CV-Wenqiong Tu.pdf)
