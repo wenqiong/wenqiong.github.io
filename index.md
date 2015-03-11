@@ -16,17 +16,42 @@ Currently, I am a PhD candidate in the program of Applied Mechanics in the Depar
 
 This is my research below:
 
-## Project 1: Investigation of damage evolution in composite materials with finite volume homogenization
-* Developed a highly efficient numerical tool in modeling crack initiation and growth with excellent stability.
-* Simulated fiber/matrix debonding in SiC/Ti composites and damage evolution in cross-ply laminates.
-* One peer-reviewed article has been published and two sequential papers are in the writing process.
+## Project 1: Development of Cohesive Zone Model (CZM)-Based Finite-Volume Homogenization technique towards the modeling of damage evolution in periodic materials
 
-# Example 1: fiber/matrix debonding in SiC/Ti composites (Journal paper)
+* **Two global systems of equations:** Primary system of equations and auxiliary system of equation. The primary system establishes the relations between continuous displacements and displacement discontinuities. The auxiliary system relates the interfacial tractions of damaged or cracked interfaces to the corresponding displacement discontinuities.
+
+* **High efficiency:** Primary system of equations only needs to be solved once and auxiliary system of equations is solved iteratively at each loading step. The number of auxiliary equations is equal to the number of interfaces undergoing damage multiplied by the associated degrees of freedom.
+
+* **A straightforward way to implement CZM:** Explicit traction-interfacial separation relations are available through the local stiffness matrix.
+
+* **Publications:** One peer-reviewed article has been published and two sequential papers are in the writing process. (need to add paper link)
+
+
+![cohesive laws](/assets/cohesiveLaw.jpg)
+*Coupled bilinear cohesive law*
+
+
+# Application 1: fiber/matrix debonding in SiC/Ti composites 
 ![Sic-Ti discretization and homogenized response](/assets/discretizationAndHomogenizedResponse.jpg)
+*Unit cell discretization and homogenized response*
 
 ![stress evolution](/assets/sicTi_stressDistribution.jpg)
+*Stress distribution at different loading steps with progressive interfacial damage*
 
-# Example 2: damage evolution in cross-ply graphite-epoxy laminates
+
+
+# Application 2: Damage evolution in cross-ply graphite-epoxy laminates
+![Project2 geometry](/assets/Project2_geometry.jpg)
+*Geometry of unit cell of a [0<sub>2</sub>/90<sub>2</sub>]<sub>s</sub> laminate*  
+
+
+![project2_homo1](/assets/project2_homo1.jpg)
+*Homogenized axial and transverse poisson’s response under uniaxial loading*
+
+![projects_homo2](/assets/projects_homo2.jpg)
+*Through-thickness  poisson’s response and the response of applied stress VS crack number*
+
+
 
 
 
