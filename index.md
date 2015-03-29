@@ -51,18 +51,37 @@ This is my research below:
 ![projects_homo2](/assets/projects_homo2.jpg)
 *Through-thickness  poisson’s response and the response of applied stress VS crack number*
 
+![application2_delamination](/assets/application2_delamination.jpg)
+*Initiation and progression of delamination along the interface 0<sup>o</sup>/90<sup>o</sup> of a [0<sub>2</sub>/90<sub>2</sub>]<sub>s</sub> laminate in the vicinity of a vertical crack in the 90<sup>o</sup> plies*
 
-
-
+![application2_stress](/assets/application2_stress.jpg)
+*Stress distribution at different loading steps with progressive interfacial damage in the vicinity of a vertical crack in the 90<sup>o</sup> plies*
 
 ## Project 2: Finite deformation analysis and optimization of bio‐inspired materials (Journal paper)
 * Developed an efficient homogenization‐based Particle Swarm Optimization (PSO) method.
 * Parallelized the optimization algorithm and executed the program on Unix‐based HPC clusters.
 * Research results are featured by the Global Medical Discovery website (link)
 
+![bio_optimization](/assets/bio_optimization.jpg)
 
+*Flow chart showing the FVDAM-driven Particle Swarm Optimization (PSO) method*
+
+![bio_geometry](/assets/bio_geometry.jpg)
+*Geometry of the simplified model of the microstructure of porcine mitral valve strut chordae and detail of the unit cell discretization*
+
+![bio_convergenceCurve](/assets/bio_convergenceCurve.jpg)
+*Geometry of the simplified model of the microstructure of porcine mitral valve strut chordae and detail of the unit cell discretization*
+
+![bio_convergenceCurve](/assets/bio_convergenceCurve.jpg)
+
+*The error convergence with iteration number of the PSO algorithm in simulating the homogenized response of porcine mitralvalve marginal,basal and strut chordae*
+
+![bio_strut_initialAndBest](/assets/bio_strut_initialAndBest.jpg)
+*(a) Initial and final particle distributions. (b)Best initial and final simulated homogenized responses of the strut chordae tendineae.*
 
 
 <div>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/EgVJ0brxqVM" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
