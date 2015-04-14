@@ -3,9 +3,16 @@ layout: default
 title: Wenqiong Tu
 ---
 ## Finite deformation analysis and optimization of bio‐inspired materials
-* Developed an efficient homogenization‐based Particle Swarm Optimization (PSO) method.
-* Parallelized the optimization algorithm and executed the program on Unix‐based HPC clusters.
-* Research results are featured by the Global Medical Discovery website
+
+* Bio-inspired unit cell architectures successfully target chordae tendinea response.
+
+* Geometric/material parameter roles are identified by micromechanics and optimization.
+
+* Mimicking complex microstructure tissues by simple architectures is shown feasible.
+
+* Defect criticality of optimum unit cell architectures increases with extensibility.
+
+* Research results are published in [Journal of the Mechanical Behavior of Biomedical Materials](http://www.journals.elsevier.com/journal-of-the-mechanical-behavior-of-biomedical-materials/) [pdf file](JMBBM-2013-WenqiongTu.pdf) and featured by [Global Medical Discovery](https://globalmedicaldiscovery.com/key-scientific-articles/targeting-finite-deformation-response-wavy-biological-tissues-bio-inspired-material-architectures/)
 
 ![bio_optimization](/assets/bio_optimization.jpg)
 

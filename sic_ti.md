@@ -2,7 +2,7 @@
 layout: default
 title: Wenqiong Tu
 ---
-## Development of Cohesive Zone Model (CZM)-Based Finite-Volume Homogenization technique towards the modeling of damage evolution in periodic materials
+## Cohesive Zone-Based Damage Evolution in Periodic Materials Via Finite-Volume Homogenization
 
 * **Two global systems of equations:** Primary system of equations and auxiliary system of equation. The primary system establishes the relations between continuous displacements and displacement discontinuities. The auxiliary system relates the interfacial tractions of damaged or cracked interfaces to the corresponding displacement discontinuities.
 
@@ -10,14 +10,14 @@ title: Wenqiong Tu
 
 * **A straightforward way to implement CZM:** Explicit traction-interfacial separation relations are available through the local stiffness matrix.
 
-* **Publications:** One peer-reviewed article has been published and two sequential papers are in the writing process. (need to add paper link)
+* **Publications:** One peer-reviewed article has been published in [Journal of Applied Mechanics](http://appliedmechanics.asmedigitalcollection.asme.org/article.aspx?articleid=1892761) [pdf file](/JAM-2014-Tu & Pindera.pdf) and two sequential papers are in the writing process.
 
 
 ![cohesive laws](/assets/cohesiveLaw.jpg)
-*Coupled bilinear cohesive law*
+*Coupled bilinear cohesive laws which control interfacial separation*
 
 
-# Application 1: fiber/matrix debonding in SiC/Ti composites 
+# Application: fiber/matrix debonding in SiC/Ti composites 
 ![Sic-Ti discretization and homogenized response](/assets/discretizationAndHomogenizedResponse.jpg)
 *Unit cell discretization and homogenized response*
 

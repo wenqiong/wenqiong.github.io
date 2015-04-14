@@ -2,7 +2,15 @@
 layout: default
 title: Wenqiong Tu
 ---
-## Damage evolution in cross-ply graphite-epoxy laminates
+## Transverse and interfacial cracking in cross-ply graphite-epoxy laminates [pdf poster](/CEE-Poster-Wenqiong Tu.pdf)
+
+* CZM-Based Finite-Volume Homogenization offers a unified methodology for simulating damage in cross-ply composite laminates due to cracking or progressive interfacial degradation. 
+
+* Different effects are taken into account, such as residual stresses, presence of interfacial resin-rich region and variable strength of the 90 degree plies.
+
+* Transverse and through-thickness Poisson’s ratios are sensitive to different damage modes, which can serve as excellent damage detection indicators.
+
+
 ![Project2 geometry](/assets/Project2_geometry.jpg)
 *Geometry of unit cell of a [0<sub>2</sub>/90<sub>2</sub>]<sub>s</sub> laminate*  
 
