@@ -11,7 +11,7 @@ Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https:
 I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to graduate in 2015.
 
 
-I majored in Engineering Mechanics, which provides me a comprehensive understanding of structural/mechanical analysis, materials testing and mechanical design. My master and PhD studies are focused on structural and stress analysis, and analysis, design and optimization of heterogeneous materials, such as fiber reinforced composites, biomaterials. Now I am actively looking for positions that can use and hone my expertise in structural and stress analysis, mechanics of materials, as well as optimization.
+I majored in Engineering Mechanics, which provides me a comprehensive understanding of structural/mechanical analysis, materials testing and mechanical design. My master and PhD studies are focused on structural and stress analysis, and analysis, design and optimization of heterogeneous materials, such as fiber reinforced composites, biomaterials. Now I am actively looking for positions that can use and hone my expertise in structural and stress analysis, mechanics of materials, code development, as well as optimization.
 
 **Skills:** ANSYS, LS-DYNA, Abaqus, HyperMesh, Python, Matlab, Fortran, Unix, AutoCAD 
 
