@@ -6,7 +6,7 @@ title: Wenqiong Tu
 
 ### About me
 
-Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong)
+Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong).
 
 I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to graduate in 2015.
 
@@ -23,8 +23,9 @@ I majored in Engineering Mechanics, which provides me a comprehensive understand
 
 * ## [Finite deformation analysis and optimization of bio‐inspired materials](/bioTissue.html) 
 
-* ## [Delamination simulation of fiber/Aluminum laminates under low-velocity impact in LS-DYNA](dynaImpact.html)
+* ## [Delamination simulation of fiber/Aluminum laminates under low-velocity impact in LS-DYNA](/dynaImpact.html)
 
+* ## [Strength optimization of Carbon Fiber Reinforced Plastic (CFRP) joints via ANSYS and Particle Swarm Optimization method ](/strengthOptimization.html)
 
 <!---
 <div>
