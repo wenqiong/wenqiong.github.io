@@ -4,9 +4,10 @@ title: Wenqiong Tu
 ---
 ## Journal articles [Google Scholar](https://scholar.google.com/citations?user=u28-S4gAAAAJ&hl=en)
 
-* **W. Tu** and M. J. Pindera, 2015. Dissipative response of unidirectional composites with two brittle constituents (Ready to submit).
-* **W. Tu** and M. J. Pindera, 2015. Damage Evolution in Cross-Ply Laminates Revisited via CZM-Based Finite-Volume Homogenization (in preparation).
+* **W. Tu** and M. J. Pindera, 2015. Dissipative response of unidirectional composites with two brittle constituents (in preparation).
 *  G.Wang, **W. Tu**, and M.J. Pindera, 2015. Homogenization-Based Determination of Small-Diameter Fiber Elastic Moduli of Unidirectional Composites (in preparation).
+* **W. Tu** and M. J. Pindera, 2015. Damage Evolution in Cross-Ply Laminates Revisited via CZM-Based Finite-Volume Homogenization, Composites Part B: Engineering, (under review).
+* Katz, C. Trinh, J. Wright, **W. Tu**, M. J. Pindera, Plastic Strain Localization in Periodic Materials with Wavy Brick-and-Mortar Architectures and Its Effect on the Homogenized Response, Composites Part B: Engineering, 2015, 68, 270-278.
 * **W. Tu** and M. J. Pindera, Cohesive Zone-Based Damage Evolution in Periodic Materials via Finite-Volume   Homogenization, Journal of Applied Mechanics, 2014, 81: 101005(1-16).
 * **W. Tu** and M. J. Pindera, Targeting the Finite-deformation Response of Wavy Biological Tissues with Bio-inspired Material Architectures, 2013,  Journal of the Mechanical Behavior of Biomedical Materials, 2013, 28: 291-308.
 * **W. Tu**, J. Chen, J. Wei, Study on the Delamination of Fiber-metal Laminates under Low-velocity Impact, Chinese Journal of Solid Mechanics, 2012, 33(2): 182-188.
