@@ -1,6 +1,4 @@
 ---
 layout: default
-title: Wenqiong Tu- resume
 ---
-
-[PDF CV](/CV-Wenqiong Tu.pdf)
+[PDF Resume-Wenqiong Tu](/Resume-Wenqiong Tu.pdf)
