@@ -8,10 +8,8 @@ title: Wenqiong Tu
 
 Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong).
 
-I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to graduate in 2015.
+I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/). My PhD research is focused on damage modeling and optimization of composite materials. Also I have established excellent skills in structural/stress analysis, as well as programming.
 
-
-I majored in Engineering Mechanics, which provided me a comprehensive understanding of structural/mechanical analysis, materials testing and mechanical design. My master and PhD studies are focused on structural and stress analysis, and analysis, design and optimization of heterogeneous materials, such as fiber reinforced composites, biomaterials. Now I am actively looking for position that can utilize and hone my expertise in structural and stress analysis, damage modeling, micromechanics of composite materials, code development, as well as optimization.
 
 **Skills:** ANSYS, LS-DYNA, Abaqus, HyperMesh, Python, Matlab, Fortran, Unix, AutoCAD 
 
