@@ -6,14 +6,16 @@ title: Wenqiong Tu
 
 ### About me
 
-Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong).
+Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong) and [google scholar](https://scholar.google.com/citations?hl=en&user=u28-S4gAAAAJ&view_op=list_works&sortby=pubdate).
 
-I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/). My PhD research is focused on damage modeling and optimization of composite materials. Also I have established excellent skills in structural/stress analysis, as well as programming.
+I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/). My PhD research is focused on damage modeling and optimization of composite materials and now I am doing a six-month (June-Nov 2015)  internship  with Dassault System Simulia Corp.. I have established excellent skills in structural/stress analysis, programming as well as optimization.
 
+**Skills:**
+Simulation tools: Abaqus, 3DEXPERIENCE Platform, Isight, fe-safe, ANSYS, LS-DYNA, HyperMesh
+Programming languages: Matlab, Python, Fortran
 
-**Skills:** ANSYS, LS-DYNA, Abaqus, HyperMesh, Python, Matlab, Fortran, Unix, AutoCAD 
+### Project highlights:
 
-### Research highlights:
 
 * ## [Development of Cohesive Zone Model-Based Finite-Volume Homogenization technique towards damage evolution in periodic materials](/sic_ti.html) 
 
