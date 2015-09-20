@@ -16,6 +16,7 @@ I am a PhD candidate in the program of Applied Mechanics under the supervisor of
 
 ### Project highlights:
 
+* ## [Homogenized Moduli Evaluation of Periodic Materials with Finite-Volume Micromechanics and Abaqus](homogenizationAbaqusFVDAM.html)
 
 * ## [Development of Cohesive Zone Model-Based Finite-Volume Homogenization technique towards damage evolution in periodic materials](/sic_ti.html) 
 
