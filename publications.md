@@ -15,6 +15,8 @@ title: Wenqiong Tu
 * W.Peng, J. Chen, M. Gu, **W. Tu**, A Particle Swarm Optimization(PSO) Algorithm for Minimizing Interlaminar Normal Stresses at the Free-edge of Composite laminates, Mechanical Science and Technology for Aerospace Engineering,2009, 28(11):1496-1500.
 
 # Selected Conference Presentations
+* **W. Tu and M. J. Pindera, CZM-Based FVDAM Analysis of Damage Evolution in Cross-Ply Laminates, American Society for Composites 30th Technical Conference, Sep 28-30, 2015, East Lansing, MI. 
+* **W. Tu, Y. Yang and M. J. Pindera, Evaluation of homogenized moduli of composite materials with Finite-Volume micromechanics and Abaqus, SIMULIA Regional User Meetings, Sep 22-23, 2015, Minneapolis, MN.  
 * **W. Tu** and M. J. Pindera, A Unified Methodology for the Homogenization of Periodic Materials with Damage, Proceedings of the 4th International Conference on Integrity, Reliability and Failure, 23-27 June 2013, Funchal, Portugal, pp. 793-794. 
 * **W. Tu**, Z. Tang, M.J. Pindera, Interfacial Damage Mechanics of Composite Materials Via Finite-Volume Micromechanics, 20th Annual International Conference on Composite Materials, July 22-28, 2012, Beijing, CHINA.
 * M.J. Pindera, **W. Tu**, M. Cavalcante, K. Bixel, Microstructural Effects in Tailoring the Response of Engineered Bio-Materials, 2012 NSF CMMI Engineering Research and Innovation Conference, July 9–12, Boston.
