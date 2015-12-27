@@ -6,9 +6,11 @@ title: Wenqiong Tu
 
 ### About me
 
-Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong) and [google scholar](https://scholar.google.com/citations?hl=en&user=u28-S4gAAAAJ&view_op=list_works&sortby=pubdate). I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to receive my PhD degree in May 2016. 
+Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong) and [google scholar](https://scholar.google.com/citations?hl=en&user=u28-S4gAAAAJ&view_op=list_works&sortby=pubdate). 
 
-My PhD research is focused on damage modeling and optimization of composite materials, which prepares me with strong problem solving and critical thinking capabilities as well as deep understanding of solid mechanics and composite materials. I have done a six-month internship between June-November 2015, focused on Abaqus’s applications, with Dassault System Simulia Corp, which is a value experience to learn CAE skills and to solve different industrial problems.
+I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to receive my PhD degree in May 2016. 
+
+My PhD research is focused on damage modeling and optimization of composite materials, which prepares me with strong critical thinking, problem solving and learning capabilities as well as deep understanding of solid mechanics and composite materials. I have done a six-month internship between June-November 2015, focused on Abaqus’s applications, with Dassault System Simulia Corp, which is a value experience to learn CAE skills and to solve different industrial problems.
 
 **Qualifications** <br>
 1) Over 6 years of experience in structural and stress analysis via various finite element software <br> 
