@@ -2,7 +2,7 @@
 layout: default
 title: Wenqiong Tu
 ---
-## Homogenized Moduli Evaluation of Periodic Materials with Finite-Volume Micromechanics and Abaqus [pdf poster](/DS Simulia RUM Poster-Wenqiong Tu.pdf)
+## Homogenized Moduli Evaluation of Periodic Materials with Finite-Volume Micromechanics and Abaqus [SIMULIA RUM poster](/DS Simulia RUM Poster-Wenqiong Tu.pdf)
 
 * FVDAM’s accuracy  and efficiency in computing homogenized properties and local stress fields are verified with Abaqus.  
 

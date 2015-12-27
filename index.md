@@ -10,7 +10,7 @@ Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https:
 
 I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to receive my PhD degree in May 2016. 
 
-My PhD research is focused on damage modeling and optimization of composite materials, which prepares me with strong critical thinking, problem solving and learning capabilities as well as deep understanding of solid mechanics and composite materials. I have done a six-month internship between June-November 2015, focused on Abaqus’s applications, with Dassault System Simulia Corp, which is a value experience to learn CAE skills and to solve different industrial problems.
+My PhD research is focused on damage modeling and optimization of composite materials, which prepares me with strong critical thinking, problem solving and learning capabilities as well as deep understanding of solid mechanics and composite materials. I have done a six-month internship between June-November 2015 with [Dassault System Simulia Corp.](http://www.3ds.com/products-services/simulia/). The internship was mainly focused on Abaqus’s applications and was a very valuable experience to learn CAE skills and to solve different industrial problems.
 
 **Qualifications** <br>
 1) Over 6 years of experience in structural and stress analysis via various finite element software <br> 
@@ -26,7 +26,7 @@ My PhD research is focused on damage modeling and optimization of composite mate
 
 * ## [Interfacial Debonding Modeling of Fiber-Reinforced Periodic Materials with Abaqus](interfacial_debonding_abaqus.html)
 
-* ## [Homogenized Moduli Evaluation of Periodic Materials with Finite-Volume Micromechanics and Abaqus](homogenizationAbaqusFVDAM.html)
+* ## [Homogenized Moduli Evaluation of Periodic Materials with Finite-Volume Micromechanics and Abaqus (SIMULIA RUM Poster)](homogenizationAbaqusFVDAM.html)
 
 * ## [Development of Cohesive Zone Model-Based Finite-Volume Homogenization technique towards damage evolution in periodic materials](/sic_ti.html) 
 

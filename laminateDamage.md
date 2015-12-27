@@ -2,7 +2,7 @@
 layout: default
 title: Wenqiong Tu
 ---
-## Transverse and interfacial cracking in cross-ply graphite-epoxy laminates [pdf poster](/CEE-Poster-Wenqiong Tu.pdf)
+## Transverse and interfacial cracking in cross-ply graphite-epoxy laminates [pdf poster](/CEE-Poster-Wenqiong Tu.pdf), [Journal paper link](http://www.sciencedirect.com/science/article/pii/S1359836815005831)
 
 * CZM-Based Finite-Volume Homogenization offers a unified methodology for simulating damage in cross-ply composite laminates due to cracking or progressive interfacial degradation. 
 
