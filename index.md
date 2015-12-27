@@ -18,12 +18,13 @@ My PhD research is focused on damage modeling and optimization of composite mate
 3) Hard-working engineer with strong critical thinking, problem solving and learning capabilities, friendly personality and good  communication skills <br> 
 4) 8 peer-reviewed journal articles in composite materials, structural analysis, fracture and damage, finite deformation, plasticity, optimization, biomaterials. <br> 
 
-
 **Skills:** <br>
 **Simulation tools:** Abaqus, ANSYS, LS-DYNA, fe-safe, Isight, 3DEXPERIENCE, HyperMesh <br> 
 **Programming languages:** Matlab, Python, Fortran 
 
 ### Project highlights:
+
+* ## [Interfacial Debonding Modeling of Fiber-Reinforced Periodic Materials with Abaqus](interfacial_debonding_abaqus.html)
 
 * ## [Homogenized Moduli Evaluation of Periodic Materials with Finite-Volume Micromechanics and Abaqus](homogenizationAbaqusFVDAM.html)
 
