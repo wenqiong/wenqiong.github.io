@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wenqiong Tu
+title: Wenqiong(Wen) Tu
 ---
 ![My personal photo](/assets/personalPhoto.jpg)
 
@@ -8,19 +8,21 @@ title: Wenqiong Tu
 
 Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong) and [google scholar](https://scholar.google.com/citations?hl=en&user=u28-S4gAAAAJ&view_op=list_works&sortby=pubdate). 
 
-I am a PhD candidate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/) and I am expected to receive my PhD degree in the spring of 2016. 
+I am a recent Ph.D. graduate in the program of Applied Mechanics under the supervisor of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) in the Department of Civil and Environmental Engineering at the [University of Virginia](http://www.virginia.edu/).
 
-My PhD research is focused on damage modeling and optimization of composite materials, which prepares me with strong critical thinking, problem solving and learning capabilities as well as deep understanding of solid mechanics and composite materials. I have done a six-month internship between June-November 2015 with [Dassault System Simulia Corp.](http://www.3ds.com/products-services/simulia/). The internship was mainly focused on Abaqus’s applications and was a very valuable experience to learn CAE skills and to solve different industrial problems.
+My Ph.D. research is focused on damage modeling and optimization of composite materials, which enables me to develop excellent simulation, analytical and programming skills and an in-depth understanding of material behaviors. Also, I conducted a six-month internship between June-November 2015 with [Dassault System Simulia Corp.](http://www.3ds.com/products-services/simulia/). The internship, mainly focused on Abaqus’s application, provided me a great opportunity to exercise the fundamental knowledge I had acquired during my university studies and to gain industrial experience efficiently through independent work and collaboration with Abaqus experts. 
 
 **Qualifications:** <br>
-1) Over 6 years of experience in structural and stress analysis via various finite element software <br> 
-2) Proficiency in analysis of composite materials and code development for solid mechanics application <br> 
-3) Hard-working engineer with strong critical thinking, problem solving and learning capabilities, friendly personality and good  communication skills <br> 
-4) 8 peer-reviewed journal articles in composite materials, structural analysis, fracture and damage, finite deformation, plasticity, optimization, biomaterials. <br> 
+1) Over 6 years of experience in finite element analysis with Abaqus, ANSYS, LS-DYNA <br> 
+2) Extensive experience in programming with MATLAB and Python, optimization and analysis of composite materials  <br> 
+3) Excellent analytical skills and deep understanding of fundamental physics and material behaviors <br> 
+4) Familiarity with HyperMesh, fatigue analysis via fe-safe, Vibration Analysis, optimization via Isight and Tosca, and design via CATIA, AutoCAD <br>
+5) Problem-solver with 9 journal articles and 4 peer-reviewed conference papers in structural and material modeling <br> 
 
 **Skills:** <br>
-**Simulation tools:** Abaqus, ANSYS, LS-DYNA, fe-safe, Isight, 3DEXPERIENCE, HyperMesh <br> 
+**Simulation tools:** Abaqus, ANSYS, LS-DYNA, fe-safe, Isight, Tosca, 3DEXPERIENCE, HyperMesh <br> 
 **Programming languages:** Matlab, Python, Fortran 
+**CAD design:** CATIA, AutoCAD
 
 ### Project highlights:
 
