@@ -21,7 +21,7 @@ My Ph.D. research is focused on damage modeling and optimization of composite ma
 
 **Skills:** <br>
 **Simulation tools:** Abaqus, ANSYS, LS-DYNA, fe-safe, Isight, Tosca, 3DEXPERIENCE, HyperMesh <br> 
-**Programming languages:** Matlab, Python, Fortran 
+**Programming languages:** Matlab, Python, Fortran <br> 
 **CAD design:** CATIA, AutoCAD
 
 ### Project highlights:
