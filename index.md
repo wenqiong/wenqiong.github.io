@@ -8,7 +8,7 @@ title: Wenqiong(Wen) Tu
 
 Welcome to Wenqiong (Wen)'s webspace! Also I can be spotted at [LinkedIn](https://www.linkedin.com/in/wenqiong) and [google scholar](https://scholar.google.com/citations?hl=en&user=u28-S4gAAAAJ&view_op=list_works&sortby=pubdate). 
 
-I am a recent Ph.D. graduate in the program of Applied Mechanics under the supervision of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) at the [University of Virginia](http://www.virginia.edu/) and now I am actively seeking a CAE or FEA Engineer Position that allows me to utilize my established simulation expertise and in-depth knowledge of solid/structural mechanics.
+I am a recent Ph.D. graduate in the program of Applied Mechanics under the supervision of Professor [Marek-Jerzy Pindera](http://cee.virginia.edu/marekjerzypindera/) at the [University of Virginia](http://www.virginia.edu/). I can start working on June 30, 2016 and now I am actively seeking a CAE or FEA Engineer Position that allows me to utilize my established simulation expertise and in-depth knowledge of solid/structural mechanics.
 
 My Ph.D. research is focused on damage modeling and optimization of composite materials, which enables me to develop excellent simulation, analytical and programming skills and an in-depth understanding of material behaviors. Also, I conducted a six-month internship between June-November 2015 with [Dassault System Simulia Corp.](http://www.3ds.com/products-services/simulia/). The internship, mainly focused on Abaqus’s application, provided me a great opportunity to exercise the fundamental knowledge I had acquired during my university studies and to gain industrial experience efficiently through independent work and collaboration with Abaqus experts. 
 
